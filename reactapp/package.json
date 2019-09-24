@@ -1,0 +1,11 @@
+{
+  "name": "git_repository",
+  "version": "1.0.0",
+  "description": "My project to connect cross platform to share data and resources",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Avneesh dwivedi",
+  "license": "ISC"
+}
